@@ -1,0 +1,7 @@
+{
+  "name": "Doom and Gloom as a Service",
+  "description": "SaaS at its best",
+  "image": "heroku/ruby",
+  "repository": "https://github.com/danzilio/dagaas",
+  "keywords": ["ruby", "sinatra", "doom", "gloom"]
+}
